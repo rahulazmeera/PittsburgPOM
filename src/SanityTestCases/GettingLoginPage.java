@@ -39,6 +39,7 @@ public class GettingLoginPage {
 		   homepage.clickonGusClassic();   
 		  
 		  //hello rahul naik how are you doing 
+		   //hey man work smart
 		   
 	}
 	
